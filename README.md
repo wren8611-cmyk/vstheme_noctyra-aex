@@ -75,3 +75,7 @@ themes/deep-navy-cyan-color-theme.json
 
 Modify the colors in this file and reload VS Code to apply changes.
 
+
+### AI Disclosure
+
+This theme was developed with the assistance of OpenAI’s ChatGPT (GPT-6).
