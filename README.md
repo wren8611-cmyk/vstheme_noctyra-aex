@@ -1,4 +1,4 @@
-# Deep Navy Cyan
+# Noctyra-AEX
 
 A dark Visual Studio Code theme featuring a deep navy background, icy cyan text, and soft pastel syntax highlighting.
 
@@ -35,8 +35,8 @@ Designed for a comfortable coding experience with a consistent color palette acr
 Clone the repository into your VS Code extensions directory:
 
 ```bash
-git clone https://github.com/wren8611-cmyk/vstheme_deep-navy-cyan.git \
-    ~/.vscode/extensions/local.deep-navy-cyan-0.0.1
+git clone https://github.com/wren8611-cmyk/vstheme_noctyra-aex.git \
+    ~/.vscode/extensions/local.noctyra-aex-0.0.1
 ```
 
 Restart VS Code.

@@ -1,18 +1,21 @@
 {
-    "name": "deep-navy-cyan",
-    "displayName": "Deep Navy Cyan",
-    "description": "A minimal dark navy theme with icy cyan accents.",
+    "name": "noctyra-aex",
+    "displayName": "Noctyra-AEX",
+    "description": "A deep navy VS Code theme with icy cyan accents.",
     "version": "0.0.1",
     "publisher": "local",
     "engines": {
         "vscode": "^1.80.0"
     },
+    "categories": [
+        "Themes"
+    ],
     "contributes": {
         "themes": [
             {
-                "label": "Deep Navy Cyan",
+                "label": "Noctyra-AEX",
                 "uiTheme": "vs-dark",
-                "path": "./themes/deep-navy-cyan-color-theme.json"
+                "path": "./themes/noctyra-aex-color-theme.json"
             }
         ]
     }
