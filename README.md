@@ -43,14 +43,14 @@ Restart VS Code.
 
 Open the Command Palette (`Cmd+Shift+P` on macOS or `Ctrl+Shift+P` on Windows/Linux) and select:
 
-**Preferences: Color Theme → Deep Navy Cyan**
+**Preferences: Color Theme → Noctyra-AEX**
 
 ### Updating
 
 To update the theme:
 
 ```bash
-cd ~/.vscode/extensions/local.deep-navy-cyan-0.0.1
+cd ~/.vscode/extensions/local.noctyra-aex-0.0.1
 git pull
 ```
 
@@ -70,7 +70,7 @@ Syntax highlighting has been tested with:
 The theme configuration is located at:
 
 ```text
-themes/deep-navy-cyan-color-theme.json
+themes/noctyra-aex-color-theme.json
 ```
 
 Modify the colors in this file and reload VS Code to apply changes.
