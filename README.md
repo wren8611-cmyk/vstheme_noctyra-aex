@@ -75,6 +75,3 @@ themes/deep-navy-cyan-color-theme.json
 
 Modify the colors in this file and reload VS Code to apply changes.
 
-## License
-
-See the `LICENSE` file for licensing information, if provided.
