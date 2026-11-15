@@ -32,13 +32,18 @@ Designed for a comfortable coding experience with a consistent color palette acr
 
 ### Manual Installation
 
-Clone the repository into your VS Code extensions directory:
+Clone the repository into the VS Code extensions directory using either HTTPS or SSH.
 
+**HTTPS:**
 ```bash
 git clone https://github.com/wren8611-cmyk/vstheme_noctyra-aex.git \
     ~/.vscode/extensions/local.noctyra-aex-0.0.1
 ```
-
+**SSH:**
+```bash
+git clone git@github.com:wren8611-cmyk/vstheme_noctyra-aex.git \
+    ~/.vscode/extensions/local.noctyra-aex-0.0.1
+```
 Restart VS Code.
 
 Open the Command Palette (`Cmd+Shift+P` on macOS or `Ctrl+Shift+P` on Windows/Linux) and select:

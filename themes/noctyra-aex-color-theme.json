@@ -81,6 +81,9 @@
         "statusBar.background": "#10283C",
         "statusBar.foreground": "#B8DEE8",
         "statusBar.border": "#20384B",
+        "statusBar.noFolderBackground": "#10283C",
+        "statusBar.noFolderForeground": "#B8DEE8",
+        "statusBar.noFolderBorder": "#20384B",
         // ============================================================
         // Title Bar
         // ============================================================
