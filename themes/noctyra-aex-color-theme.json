@@ -22,6 +22,18 @@
         "editorBracketHighlight.foreground5": "#D09B88",
         "editorBracketHighlight.foreground6": "#A8D4B8",
         "editorBracketHighlight.unexpectedBracket.foreground": "#E08080",
+        // Search Highlighting
+        "editor.findMatchBackground": "#285477",
+        "editor.findMatchBorder": "#78D8D2",
+        "editor.findMatchHighlightBackground": "#205064",
+        "editor.findMatchHighlightBorder": "#45677D",
+        "editor.findRangeHighlightBackground": "#162C42",
+        "editor.selectionHighlightBackground": "#28547766",
+        "editor.selectionHighlightBorder": "#91B8D088",
+        "editor.inactiveSelectionBackground": "#28547788",
+        "editor.wordHighlightBackground": "#91B8D033",
+        "editor.wordHighlightStrongBackground": "#91B8D055",
+        "editor.wordHighlightTextBackground": "#91B8D033",
         // ============================================================
         // Sidebar
         // ============================================================
