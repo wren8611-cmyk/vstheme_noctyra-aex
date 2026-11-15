@@ -4,6 +4,11 @@
     "description": "A deep navy VS Code theme with icy cyan accents.",
     "version": "0.0.1",
     "publisher": "local",
+    "author": "Wren Yamada <rento.yamada@riken.jp>",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wren8611-cmyk/vstheme_noctyra-aex.git"
+    },
     "engines": {
         "vscode": "^1.80.0"
     },
