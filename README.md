@@ -37,12 +37,12 @@ Clone the repository into the VS Code extensions directory using either HTTPS or
 **HTTPS:**
 ```bash
 git clone https://github.com/wren8611-cmyk/vstheme_noctyra-aex.git \
-    ~/.vscode/extensions/local.noctyra-aex-0.0.1
+    path/to/.vscode/extensions/local.noctyra-aex-0.0.1
 ```
 **SSH:**
 ```bash
 git clone git@github.com:wren8611-cmyk/vstheme_noctyra-aex.git \
-    ~/.vscode/extensions/local.noctyra-aex-0.0.1
+    path/to/.vscode/extensions/local.noctyra-aex-0.0.1
 ```
 Restart VS Code.
 
@@ -55,7 +55,7 @@ Open the Command Palette (`Cmd+Shift+P` on macOS or `Ctrl+Shift+P` on Windows/Li
 To update the theme:
 
 ```bash
-cd ~/.vscode/extensions/local.noctyra-aex-0.0.1
+cd path/to/.vscode/extensions/local.noctyra-aex-0.0.1
 git pull
 ```
 
